@@ -1,4 +1,4 @@
-# Heart Attack Prediction Dashboard
+# Heart Disease Prediction and Exploratory Data Analysis
 
 This project involves exploratory data analysis (EDA) and machine learning-based prediction to determine the likelihood of heart disease based on clinical data. The goal is to uncover patterns in the dataset and build models that can aid in early detection and risk stratification, which is crucial for timely treatment.
 
